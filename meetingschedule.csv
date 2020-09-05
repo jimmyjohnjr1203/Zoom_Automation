@@ -1,6 +1,6 @@
-﻿Time,Meeting ID,Passcode
-07:35,123 4567 8910,12345
-12:30,111 2222 3333,12345
+﻿Time,Meeting ID,Passcode,First_Day,Second_Day
+07:35,123 4567 8910,12345,1,5
+12:30,111 2222 3333,12345,2,4
 ,,
 ,,
 ,,
